@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1708959631951,
+      "tag": "0000_parched_blue_marvel",
+      "breakpoints": true
+    }
+  ]
+}
